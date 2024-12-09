@@ -1,0 +1,28 @@
+personal_info:
+  name:
+  email: 
+  phone: 
+  location: 
+
+education:
+  - institution: 
+    degree: 
+    major: 
+    year: 
+
+additional_education:
+  - institution: 
+    course_name: 
+    year: 
+  - institution: 
+    course_name: 
+    year: 
+
+experience:
+  - company: 
+    position: 
+    duration: 
+    description: 
+
+skills:
+  
