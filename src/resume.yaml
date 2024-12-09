@@ -1,28 +1,38 @@
 personal_info:
-  name:
-  email: 
-  phone: 
-  location: 
+  name: "Sergey"
+  email: "rigotka@mai.ru"
+  phone: "+78005553535"
+  location: "Томск, Россия"
 
 education:
-  - institution: 
-    degree: 
-    major: 
-    year: 
+  - institution: "Тусур"
+    degree: "Бакалавр"
+    major: "Разработка ПО"
+    year: "2021-2025"
 
 additional_education:
-  - institution: 
-    course_name: 
-    year: 
-  - institution: 
-    course_name: 
-    year: 
+  - institution: "Яндекс.Практикум"
+    course_name: "Python-разработчик бэкенда"
+    year: "2021"
+  - institution: "IT академия ТУСУР"
+    course_name: "DevOps"
+    year: "2024"
 
 experience:
-  - company: 
-    position: 
-    duration: 
-    description: 
+  - company: "Инкубатор ТПУ"
+    position: "Бэкенд разработчик python"
+    duration: "2021-2023"
+  - company: "Элком+"
+    position: "Фулстек. asp.net, react"
+    duration: "2023-2024"
 
 skills:
-  
+  - Python (django, REST framework, aiogram)
+  - C# (winform, asp.net, xamarin)
+  - Java (android app)
+  - JavaScript (react)
+  - HTML/CSS/Bootstrap
+  - git
+  - docker
+  - nginx
+  - DB (PostgreSQL, MySql)
